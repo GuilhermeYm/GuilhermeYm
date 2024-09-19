@@ -1,2 +1,4 @@
-## Olá eu sou o Guilherme. 
-[![GuilhermeYm's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeYm&show_icons=true&theme=tokyonight)](https://github.com/GuilhermeYm/github-readme-stats)
+<h1 align="center 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Olá, eu sou o Guilherme
+</h1>
