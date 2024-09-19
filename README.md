@@ -5,5 +5,5 @@ Olá, eu sou o Guilherme
 
 <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=GuilhermeYm&show_icons=true&theme=tokyonight" />
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeYm&layout=compact" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeYm&layout=compact&theme=tokyonight" />
 
